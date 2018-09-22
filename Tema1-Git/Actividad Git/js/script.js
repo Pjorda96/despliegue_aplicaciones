@@ -9,6 +9,7 @@ Copyright © All rights Reserved
 
 */
 
+/*hotfix*/
 $(function() {
     "use strict";
 
