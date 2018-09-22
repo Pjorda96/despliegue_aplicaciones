@@ -10,6 +10,8 @@ Copyright © All rights Reserved
 */
 
 /*hotfix*/
+/*hotfix 2*/
+
 $(function() {
     "use strict";
 
