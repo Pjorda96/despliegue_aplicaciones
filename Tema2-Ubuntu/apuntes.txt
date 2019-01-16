@@ -43,13 +43,13 @@ Se tendria que quedar asi:
 127.0.0.1         localhost
  
 # Ejemplo para una página web
-IPUbuntu	google.es
-IPUbuntu	google.es
+IPUbuntu	www.google.es
+IPUbuntu	www.google.es
 
 -----------------------------------------------------------------------------
 
 Deshabilitar el servidor virtual por defecto: sudo a2dissite 000-default.conf
-(para volverlo a habilitar ser´ia con service apache2 reload)
+(para volverlo a habilitar sería con service apache2 reload)
 
 Habilitar hosts virtuales: sudo a2enmod vhost_alias
 
