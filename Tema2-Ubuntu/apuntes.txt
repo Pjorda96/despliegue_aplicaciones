@@ -3,7 +3,7 @@ GID /etc/shadow
 
 apachectl -v
 
-Rule 1 |  | 8000 |  | 80
+Rule 1 |  |  | 8000 |  | 80
 
 apache2.conf --> etc/apache2/apache2.conf
 
