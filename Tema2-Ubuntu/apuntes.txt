@@ -24,6 +24,10 @@ Se quedaria asi --> ErrorDocument 404 /mostrarErrores.html
 
 ----------------------------------------------------------------------
 
+sudo apt-get install apache2-utils
+
+----------------------------------------------------------------------
+
 Crear fichero .htaccess dentro del directorio que quieras restringir
 y añadir estas lineas
 
